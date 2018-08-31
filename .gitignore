@@ -14,3 +14,11 @@ build
 # My configurations:
 db.ini
 deploy_key_rsa
+
+# 内容文件
+*.txt 
+
+# excel 存储部分文件
+*.xls
+*.xlsx
+
